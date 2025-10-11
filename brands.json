@@ -1,18 +1,22 @@
 [
   {
     "brand": "資生堂",
-    "categoryHints": ["リップ", "スキンケア"]
+    "categoryHints": ["リップ", "スキンケア"],
+    "googleQuery": "資生堂 AND (新作 OR 新商品 OR 限定)"
   },
   {
     "brand": "KOSÉ",
-    "categoryHints": ["チーク", "スキンケア"]
+    "categoryHints": ["チーク", "スキンケア"],
+    "googleQuery": "KOSÉ OR コーセー AND (新作 OR 新商品 OR 限定)"
   },
   {
     "brand": "カネボウ",
-    "categoryHints": ["アイメイク", "ベースメイク"]
+    "categoryHints": ["アイメイク", "ベースメイク"],
+    "googleQuery": "カネボウ AND (新作 OR 新商品 OR 限定)"
   },
   {
     "brand": "花王",
-    "categoryHints": ["スキンケア", "ヘアケア"]
+    "categoryHints": ["スキンケア", "ヘアケア"],
+    "googleQuery": "花王 AND (化粧品 OR コスメ) AND (新作 OR 新商品 OR 限定)"
   }
 ]
