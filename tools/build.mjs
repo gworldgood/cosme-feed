@@ -14,7 +14,11 @@ const toISO = (d) => {
   return isNaN(t.getTime()) ? nowISO() : t.toISOString();
 };
 
-// --- タイトル整形（強調ワード付与＋ノイズ除去）
+// GoogleニュースRSS（フォールバック用）
+const googleNewsRSS = (q) =>
+  `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=ja&gl=JP&ceid=JP:ja`;
+
+// タイトル整形
 const normalizeTitle = (brand, raw) => {
   if (!raw) return `${brand}の最新情報`;
   let t = String(raw).replace(/\s+/g, " ").trim();
@@ -26,7 +30,7 @@ const normalizeTitle = (brand, raw) => {
   return t;
 };
 
-// --- カテゴリ推定（brandHints優先 → 辞書 → 単語）
+// カテゴリ推定
 const guessCategory = (brandHints, text) => {
   const all = new Set([...(brandHints || []), ...catDict]);
   const s = String(text || "");
@@ -38,7 +42,7 @@ const guessCategory = (brandHints, text) => {
   return "スキンケア";
 };
 
-// --- 要約（先頭文）
+// 要約
 const summarizeJP = (txt) => {
   if (!txt) return "公式情報の要点をまとめました。";
   const s = String(txt).replace(/\s+/g, " ").trim();
@@ -46,9 +50,8 @@ const summarizeJP = (txt) => {
   return i > 20 ? s.slice(0, i + 1) : s.slice(0, 120);
 };
 
-// --- URL抽出（RSS/Atomの差異を吸収）
+// RSS/Atomのlink取得
 const pickLink = (it) => {
-  // Atom: link は配列orオブジェクトで rel="alternate" を優先
   const link = it.link;
   if (typeof link === "object") {
     if (Array.isArray(link)) {
@@ -60,13 +63,12 @@ const pickLink = (it) => {
       return link.href;
     }
   }
-  // RSS: 文字列 or enclosure
   if (typeof link === "string" && link) return link;
   if (it.enclosure?.url) return it.enclosure.url;
   return "";
 };
 
-// --- URL正規化（末尾スラッシュ等のブレを抑える）
+// URL正規化＆重複排除
 const normalizeUrl = (u) => {
   try {
     const url = new URL(u);
@@ -79,8 +81,6 @@ const normalizeUrl = (u) => {
     return u || "";
   }
 };
-
-// --- 重複排除（URLベース）
 const dedupeByUrl = (arr) => {
   const seen = new Set();
   return arr.filter((x) => {
@@ -92,7 +92,7 @@ const dedupeByUrl = (arr) => {
   });
 };
 
-// --- fetch with retry
+// HTTP GET with retry
 async function httpGet(url, tries = 2) {
   let lastErr;
   const UA = "cosme-feed-builder/1.0 (+https://github.com/)";
@@ -128,14 +128,10 @@ async function fetchRSS(url) {
 
 const ytRSS = (chId) => `https://www.youtube.com/feeds/videos.xml?channel_id=${chId}`;
 
-// --- UUID（Node20のcrypto.randomUUIDが無い環境対策）
+// UUID（fallback）
 const safeUUID = () => {
-  try {
-    // eslint-disable-next-line no-undef
-    return crypto.randomUUID();
-  } catch {
-    return Math.random().toString(36).slice(2) + Date.now().toString(36);
-  }
+  try { return crypto.randomUUID(); } // eslint-disable-line no-undef
+  catch { return Math.random().toString(36).slice(2) + Date.now().toString(36); }
 };
 
 async function main() {
@@ -147,11 +143,13 @@ async function main() {
   for (const b of brands) {
     const brand = b.brand;
     const hints = b.categoryHints || [];
-   // 公式RSS/YouTubeに加えて、必要ならGoogleニュースRSSを使う
-    let feedURLs = [ ...(b.rss||[]), ...(b.youtube||[]).map(ytRSS) ];
-   if ((b.useGoogleNewsRSS ?? true) && feedURLs.length === 0) {
-     // 公式フィード未指定なら自動でGoogleニュースRSSを追加
-      // 例: "資生堂 新作 OR 新商品 OR コスメ"
+
+    // 公式RSS/YouTube + GoogleニュースRSS（必要に応じて）
+    let feedURLs = [
+      ...(b.rss || []),
+      ...(b.youtube || []).map(ytRSS),
+    ];
+    if ((b.useGoogleNewsRSS ?? true) && feedURLs.length === 0) {
       const q = b.googleQuery || `${brand} 新作 OR 新商品 OR コスメ`;
       feedURLs.push(googleNewsRSS(q));
     }
@@ -185,41 +183,34 @@ async function main() {
     }
   }
 
-  // 直近90日だけ & 未来日を除外
+  // 直近90日だけ & 未来日除外
   const now = Date.now();
   const ninety = now - 90 * 24 * 60 * 60 * 1000;
-  all = all
-    .filter((x) => {
-      const t = new Date(x.publishedAt).getTime();
-      return !isNaN(t) && t >= ninety && t <= now + 24 * 60 * 60 * 1000; // 未来日の混入を抑制
-    });
+  all = all.filter((x) => {
+    const t = new Date(x.publishedAt).getTime();
+    return !isNaN(t) && t >= ninety && t <= now + 24 * 60 * 60 * 1000;
+  });
 
-  // URL重複を排除して新しい順に
+  // 重複排除 & 新しい順
   all = dedupeByUrl(all).sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
-  // --- フォールバック（0件なら1件は出す）
+  // 0件ならフォールバック1件
   if (all.length === 0) {
-    all = [
-      {
-        id: safeUUID(),
-        brand: "テスト（feed未取得）",
-        title: "【新作】フォールバック表示 — brands.json / Actionsログを確認してください",
-        summary: "RSSの取得に失敗した可能性があります。URLの有効性やリダイレクト、Actions権限を確認しましょう。",
-        publishedAt: nowISO(),
-        category: "スキンケア",
-        sourceType: "website",
-        url: "https://example.com/",
-        thumbnailURL: null,
-      },
-    ];
+    all = [{
+      id: safeUUID(),
+      brand: "テスト（feed未取得）",
+      title: "【新作】フォールバック表示 — brands.json / Actionsログを確認してください",
+      summary: "RSSの取得に失敗した可能性があります。URLやクエリ、権限を確認しましょう。",
+      publishedAt: nowISO(),
+      category: "スキンケア",
+      sourceType: "website",
+      url: "https://example.com/",
+      thumbnailURL: null,
+    }];
   }
 
   await fs.writeFile(OUT_PATH, JSON.stringify(all, null, 2), "utf-8");
-  console.log(
-    "✅ Build finished:",
-    `${all.length} items`,
-    "| feeds:", `${okFeeds}/${totalFeeds}`
-  );
+  console.log("✅ Build finished:", `${all.length} items`, "| feeds:", `${okFeeds}/${totalFeeds}`);
 }
 
 main().catch((e) => {
