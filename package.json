@@ -1,0 +1,12 @@
+{
+  "name": "cosme-feed",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs"
+  },
+  "dependencies": {
+    "node-fetch": "2.7.0",
+    "xml2js": "0.6.2"
+  }
+}

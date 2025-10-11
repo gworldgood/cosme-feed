@@ -1,0 +1,23 @@
+name: Build Campaigns
+on:
+  schedule:
+    - cron: "0 * * * *"   # 毎時
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm ci || npm i
+      - run: npm run build
+      - name: Commit & Push
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@example.com"
+          git add docs/campaigns.json
+          git commit -m "update campaigns [skip ci]" || echo "no changes"
+          git push
