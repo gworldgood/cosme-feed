@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "0150e230-73ac-4fcd-a29e-ef32ecb719cb",
+    "brand": "テスト（feed未取得）",
+    "title": "【新作】フォールバック表示 — brands.json / Actionsログを確認してください",
+    "summary": "RSSの取得に失敗した可能性があります。URLの有効性やリダイレクト、Actions権限を確認しましょう。",
+    "publishedAt": "2025-10-11T15:45:44.848Z",
+    "category": "スキンケア",
+    "sourceType": "website",
+    "url": "https://example.com/",
+    "thumbnailURL": null
+  }
+]

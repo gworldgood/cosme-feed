@@ -1,27 +1,18 @@
 [
   {
     "brand": "資生堂",
-    "categoryHints": ["リップ", "スキンケア", "ベースメイク"],
-    "rss": ["https://corp.shiseido.com/jp/news/rss.xml"],
-    "youtube": ["UCiq1zGWbKt6Q7XqQ3VIAtuQ"]
+    "categoryHints": ["リップ", "スキンケア"]
   },
   {
     "brand": "KOSÉ",
-    "categoryHints": ["チーク", "スキンケア", "アイメイク"],
-    "rss": ["https://www.kose.co.jp/company/ja/content/rss/news.xml"],
-    "youtube": []
+    "categoryHints": ["チーク", "スキンケア"]
   },
   {
     "brand": "カネボウ",
-    "categoryHints": ["アイメイク", "ベースメイク"],
-    "rss": ["https://www.kanebo.com/jp/ja/news/rss.xml"],
-    "youtube": []
+    "categoryHints": ["アイメイク", "ベースメイク"]
   },
   {
     "brand": "花王",
-    "categoryHints": ["スキンケア", "ヘアケア"],
-    "rss": ["https://www.kao.com/jp/news/rss/"],
-    "youtube": []
+    "categoryHints": ["スキンケア", "ヘアケア"]
   }
 ]
- 
