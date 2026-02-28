@@ -1,6 +1,6 @@
 [
   {
-    "id": "175a2807-b4a8-47c5-923a-e4f21c25adb0",
+    "id": "e40226f6-0a77-4650-b5db-4840904a7b28",
     "brand": "花王",
     "title": "花王：【発売】【新作】2／28～3／13発売の新作コスメ：春らしい香りのコレクションが登場 ランコムのUVケア、クラランスの美容液ファンデ、花王の汗ケアも - 毎日キレイ",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1jRktmcFZDZ2tRV3h3MlJ3LXY0RXNjeGRTdXJRUG42UEJ1T3dEVHg1ODlmZT",
@@ -11,7 +11,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "323f60fc-b269-4b4b-bdba-9f6cf1d46c96",
+    "id": "83a95564-b841-4f1d-ad3e-8f51a4af01f0",
     "brand": "資生堂",
     "title": "資生堂：【発売】【限定】資生堂パーラー 銀座本店ショップ 3月8・9日開催「スペシャルストロベリーデー2026」で、全国から選りすぐりの苺を使った9種類のケーキを限定発売！ -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8wbm9FWEFHNDZpOWVMTHZsTzBDcTAtZUN5eWFSTXFSM2hTMGJuR3YyM1Nfcn",
@@ -22,7 +22,18 @@
     "thumbnailURL": null
   },
   {
-    "id": "41aa8a28-82a6-4ac8-acca-fae0a1f48807",
+    "id": "052c2b9b-77da-43a4-bdd4-3093af502ebe",
+    "brand": "資生堂",
+    "title": "資生堂：【限定】東京・銀座「BAR S(バー エス)」 春の息吹を感じる、限定カクテルを展開 -  TIMES",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1XalNLNDQ5Ul9xS0lzcHdfUnJ2QWdsOTNNQXlGOXN1WjRGSWQzdVZyam44Sn",
+    "publishedAt": "2026-02-26T02:00:03.000Z",
+    "category": "スキンケア",
+    "sourceType": "website",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XalNLNDQ5Ul9xS0lzcHdfUnJ2QWdsOTNNQXlGOXN1WjRGSWQzdVZyam44SnRLYzVQQ0I3ai1yVkphOVdITFZMa3dQa1ZKLXlSWXNOT2ZGcTlxbUZ1RTlJSEZoQnJWNFA0eEE?oc=5",
+    "thumbnailURL": null
+  },
+  {
+    "id": "2e431197-3892-4a34-b6df-872719a1ced9",
     "brand": "カネボウ",
     "title": "カネボウ：【新作】本当に売れたコスメ発表！乳液・クリーム部門・新商品1位は「SK-II」「エリクシール」「カネボウ」 - WWDJAPAN",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5N1M4Unp0Z3h0UHJkUVBTdVdxdkpnYWxCeDVCUG9McXhrQTFQZXE1aTB6Qm",
@@ -33,7 +44,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "c42fa6b7-6260-4025-a69d-97555f7be00e",
+    "id": "098cd331-f97e-4130-8199-58d8ee174f03",
     "brand": "資生堂",
     "title": "資生堂：【限定】「資生堂パーラー 銀座本店サロン・ド・カフェ」 春めく3月、苺が主役の限定パフェなどを展開 -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5sVGRoNXBBZWV1aXh2NFpEb25reW94aGFPZS0taWZfbExEaURVdmUtQlExbk",
@@ -44,7 +55,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "5b690ddb-5323-4efc-b3f4-34dd0f50dddb",
+    "id": "03959073-bdc9-439f-a4b2-afc2e7e6fda3",
     "brand": "資生堂",
     "title": "資生堂：【限定】「資生堂パーラー 銀座本店レストラン」、佐賀の春の旬彩を堪能する、限定メニューを展開 -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0wVm9WVDVtVUFmVTFaR3lqWnh5NU43ZllTa2tHVnhGc201OGg1cFQ1ZlVQUD",
@@ -55,18 +66,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "40d8dc9a-309f-42d7-8db0-b8632e61384f",
-    "brand": "資生堂",
-    "title": "資生堂：【限定】限定商品やプレゼントも♪兵庫県内2店舗目『資生堂パーラー 大丸神戸店』がオープン - Kiss ESS(キッスプレス)",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE56YlZyWVNVcDRuTmNhOGp6cVBwZDUzWDNJeGNJdmVMQXE0alZMSF83aV8tMm",
-    "publishedAt": "2026-02-17T08:00:00.000Z",
-    "category": "スキンケア",
-    "sourceType": "website",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56YlZyWVNVcDRuTmNhOGp6cVBwZDUzWDNJeGNJdmVMQXE0alZMSF83aV8tMm40UWxCWF9Eanhseng5VzQ0OXlLWGZDLUk?oc=5",
-    "thumbnailURL": null
-  },
-  {
-    "id": "c2b0a0f9-8f90-4433-a6e1-6b91002c0fe6",
+    "id": "494905e4-7084-4d29-9232-0ded3c39b405",
     "brand": "資生堂",
     "title": "資生堂：【限定】資生堂パーラー「花椿ビスケット」珊瑚色の限定缶登場 - ウォーカープラス",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uSXlwWXpNWDZ2NWFEemtUN3g0MEg4cVo0eTIxUUl6czl0MVAtQlZQekQ1aD",
@@ -77,7 +77,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "a1acd13b-538a-4668-97fa-fb49718e9f95",
+    "id": "3fcd21ad-048c-4876-ab5c-368f2b24c683",
     "brand": "資生堂",
     "title": "資生堂：【新作】SHISEIDO（資生堂）26年春新作｜フェイス＆アイカラー『カラー＋グロウ エンハンサー』を口コミ - fortune-girl.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBicjAxbUtXU1J4dEpXNy00dHUxZWdDSHNPSmNGVXEwSVNsUjB6NjFkMTl1d2",
@@ -88,7 +88,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "fa872e9c-d770-4770-9d5c-6fdc4119ebfa",
+    "id": "5cf740e3-0020-4f7f-aa17-52d291b47eee",
     "brand": "カネボウ",
     "title": "カネボウ：【2026年夏コスメ】カネボウ：表情に自信を添える、優しくほのかなカラーバリエーション - fashionsnap.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE03YnRTTEZyRERIYWFlZkI2ekVtS09SNm1hQl9MZk5CNGdzUG9ueF9CU0NIcj",
@@ -99,18 +99,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "e959876f-a57b-4f88-ab83-d7a869085a8e",
-    "brand": "資生堂",
-    "title": "資生堂：【限定】レトロかわいいパッケージが魅力的。資生堂パーラー、春のギフトにぴったりな限定スイーツ登場！ - マイナビウーマン",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Bb3B6bnZQYUpZZ0FTdGFidzhkWGJUOHZmcTlMWTZGZjZXSktNemR6cjBrbDZraGVTVlRWV2lRLXY3ZEMwTVVmVXBNS0VKWmRwaDZBMUVHVEY2TFBrb3c?oc=5\" target=\"_blank\">レトロかわいいパッケージが魅力的。",
-    "publishedAt": "2026-02-04T08:00:00.000Z",
-    "category": "スキンケア",
-    "sourceType": "website",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Bb3B6bnZQYUpZZ0FTdGFidzhkWGJUOHZmcTlMWTZGZjZXSktNemR6cjBrbDZraGVTVlRWV2lRLXY3ZEMwTVVmVXBNS0VKWmRwaDZBMUVHVEY2TFBrb3c?oc=5",
-    "thumbnailURL": null
-  },
-  {
-    "id": "a0a39d57-7e1d-4cc2-a777-dd6781791b5e",
+    "id": "cee2c698-7b67-4f14-9d43-944db1c0b6a5",
     "brand": "カネボウ",
     "title": "カネボウ：【発売】「カネボウ」が“皮脂の悪玉化”をケアする新フェイスクリームを発売 プリズムカラーの“生命感ルージュ”も - WWDJAPAN",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE93T3JWZTJIRDVCLUcyS2VZSmtuendRMGRFTGh3QXUxVkRlQkJsZnY4MU4xR0",
@@ -121,7 +110,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "c849510a-c168-43c2-8c7b-4f714679cba6",
+    "id": "f81a2f0a-79e6-4804-917c-044b2615b32e",
     "brand": "カネボウ",
     "title": "カネボウ：【新作】【限定】【夏新色コスメ2026】カネボウの人気リップやアイシャドウに限定色が登場！ 気になるカラーをスウォッチ - MAQUIA ONLINE",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE51elhBV3FjSGxsd0hpc2oxUk9CLUdqQVp5RlQtNFF2Q19seFZ2WnRPYmpJWV",
@@ -132,7 +121,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "31a33c39-b296-4519-9068-0e0e753c6a2d",
+    "id": "5da56eaa-91f4-40a5-b9dc-6146c33442ce",
     "brand": "カネボウ",
     "title": "カネボウ：【新作】【限定】KANEBO新作はリップ＆アイの限定カラーをチェック！ アップルグリーンのスクラブルージュも【夏新色コスメ2026】 - MAQUIA ONLINE",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QY2RxbFIwdmdTVktIeXlhWWlRV3ZjUC0tcUs2YzlaNTZLbGlEQmw4cWtvcV",
@@ -143,7 +132,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "f2592a6e-0dc7-4516-985c-d8ee7587a90f",
+    "id": "0c953c60-c71a-4d40-8d9b-5b3acffd88b2",
     "brand": "カネボウ",
     "title": "カネボウ2026年夏コスメ”ユニコーン色”の美容液ルージュ＆”アップルグリーン”のスクラブリップ - ファッションプレス",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UN2xSWDZIdGxtaGRnTjhVS0NLdFkyQXJJaW4tVnhkUzg0Mjk3Wnh2NVQxdl",
@@ -154,7 +143,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "74a323bc-6830-48e1-8d74-9a8b1d8c23a6",
+    "id": "f57a32c2-d212-43cb-81ef-7755e2d6b993",
     "brand": "カネボウ",
     "title": "カネボウ：【新作】【2026年新作】落ちないデパコスリップ3選！RMK・カネボウ・コスメデコルテの色移り＆時間耐久を徹底比較（MAQUIA） - Yahoo!ニュース",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBZdXpXN242UkJ2eW5IblRKSUJneWJEZnJYYzRNNmZ0SUZBVTNCSnVicjNWbX",
@@ -165,7 +154,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "f90df670-f9da-4f3d-af4f-2d5b16499a66",
+    "id": "257316d2-9b11-48a4-b5f4-2cbc51d05819",
     "brand": "資生堂",
     "title": "資生堂：【発売】【限定】アネッサメン誕生！1本で紫外線ケアとテカリ・かさつき・毛穴の目立ちまでスキンケアも叶えるUVジェル ～アネッサとマツキヨココカラ＆カンパニーとの共同企画第二弾～ ～2026年3月21日（土）限定発売～ -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0xeFF1SlNMWUZEdXU4SXpXeVhzQ2VNZWJqMXlJV3BORkxMa0ZlaEFBY3RkZV",
@@ -176,7 +165,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "09ff8112-e52c-49ae-9968-e111b233e9e7",
+    "id": "fd87c0a3-1b9a-47c1-9807-d2a007a1370f",
     "brand": "資生堂",
     "title": "資生堂：【限定】資生堂パーラー銀座本店、イチゴやキンカンを使った季節限定パフェ提供（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1sSVdFaHhzR0hQbmpETVFLejJQak5JcE9RY0hlWmp3anFubExSNkJFRUVwNE",
@@ -187,7 +176,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "d9cbc569-3043-466d-b70a-62dda2e1d58e",
+    "id": "6c4bcb11-a26a-4cb6-a561-7b94b13a247d",
     "brand": "KOSÉ",
     "title": "KOSÉ：【発売】【限定】絶対やかない『サンカット®』シリーズから『サンリオキャラクターズ』 デザインパッケージを2月2日より数量限定で順次発売 -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBaRWRDekpNWXJtUlpDeFBxSmtDcG9FbVcwXzBlRTZ3NG43UGVLaGZqaEV4dm",
@@ -198,7 +187,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "12eac44f-24a9-461d-8f10-9ddc1c96d94e",
+    "id": "ef65fac8-83cb-4c58-9d25-a2b3f2bc2a58",
     "brand": "KOSÉ",
     "title": "KOSÉ：【発売】【限定】『ジュレーム』より、ポケモンがデザインされたシャンプー＆ヘアトリートメントセット、ヘアオイルとヘアマスクを2月20日より数量限定発売 -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1RY3oxbk9VckRWeEFjWDV0d3lkYUc0LXlKY0FvRmtVYW5PZS1jWEZUMkc3cj",
@@ -209,7 +198,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "8e5cf762-5b9b-4dc5-a4e6-7a65000c64f0",
+    "id": "71a335fc-d075-49d1-8fe8-3c6d1bf825df",
     "brand": "カネボウ",
     "title": "カネボウ：【新作】【2026年新作】落ちないデパコスリップ3選！RMK・カネボウ・コスメデコルテの色移り＆時間耐久を徹底比較 - TRILL",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BUGRjRXNNN01ua3FMaUdfRC0wZnNXYmgwVjNGdHBueS1JZnJoWDN1QmFEdG",
@@ -220,7 +209,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "2eff805e-9e4c-4095-95c9-a40f16db90f5",
+    "id": "07d1cc94-b478-4cf0-b03b-350d5c78212a",
     "brand": "資生堂",
     "title": "資生堂：【発売】【限定】SHISEIDOから限定リップスティックコレクション発売 ピンクをモダンに再定義 - fashionsnap.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBmYXdfcW5pTEVnMW1ETjBoU3UtZWF5UVZtc2FLaGxjZ0hxMGpKd1hPVFFEWk",
@@ -231,7 +220,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "9514e0e6-d635-425d-bd21-343bace58e01",
+    "id": "b6d9fd08-608c-432b-933c-7200dc257617",
     "brand": "KOSÉ",
     "title": "KOSÉ：【新作】コーセー・ミルボン協業「アイエム」が新作発表 カスタマイズカラー発想のUV下地＆リップ - fashionsnap.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE02dlEzZzlwVHhGYlI3U19ObVVidENUOXFuRVZwV1RzcTNKa0xVV0lzT3hMUl",
@@ -242,7 +231,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "2963fbe5-4e90-41b7-8df0-40fa88bfdf2d",
+    "id": "48a9053e-9b35-4b49-b379-00863c77b0e6",
     "brand": "資生堂",
     "title": "資生堂：【限定】【資生堂パーラー】の限定パフェでロマンティックなバレンタインを。数量限定ショコラ各種も登場 - SPUR（シュプール）",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rMUR3WHBiek55R25Bdzg0d2x3S3ZfU21CUTh1eFVWeGFQMWVUR1MybHlVblRuZzVxQ18zVE01X3ZRVy1vN1JNOUUtcWdHWENKT05EdjVEMDRCVXd4Y3Q4bUI0NlBUeG8?oc=5\" target=\"_blank\">【資生堂パーラー】の限定パフェでロマンティックなバレンタインを。",
@@ -253,7 +242,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "eb903880-470d-4886-9334-10c985fb39af",
+    "id": "8e8c601c-ac04-46e9-80fa-e6e44f21e94c",
     "brand": "資生堂",
     "title": "資生堂パーラーのストロベリーパフェ、希少なご当地＆ブランドいちごを”味比べ” - ファッションプレス",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pckVOSXV4VlRpbVN6Y0dYUDNkb29hZ0hDRnhnRE5vdEtuWnJJMEhrTURhRn",
@@ -264,7 +253,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "e4688c43-6660-4a9d-afa6-9746fdbee7c6",
+    "id": "3a89f47e-a369-4116-a997-5814695fa1ed",
     "brand": "資生堂",
     "title": "資生堂：【限定】「THE PERFECT PINK」“ピンク”をテーマにしたSHISEIDO限定リップ登場 - Shiseido",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5oejFpQ2FBOTB0UXJZVV93akhxMGhMRW96b2JTS0FkdGRjcnRPMVlTUmV6QW",
@@ -275,7 +264,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "29adaf39-ba99-46b2-a670-c9e40a1c137f",
+    "id": "5de09e17-3b34-4fae-81b7-5efcde8fe3e3",
     "brand": "資生堂",
     "title": "資生堂：【発売】【限定】「THE PERFECT PINK」SHISEIDOより、”ピンク”をテーマにしたリップ限定コレクション登場。～2026年5月1日（金）発売～ -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE13TGFPOUl5RVV3NVNTbVVjSTlWczNQQk95S3JRTXJFYmUtWU96TUV1aThwelBjdVREMlpEVU1CR3hLVENYNU5BMExORlAwY1VqZ0k1MmxzUW9VUWFaOS1wWXk4ZW02SjNucGc?oc=5\" target=\"_blank\">「THE PERFECT PINK」SHISEIDOより、”ピンク”をテーマにしたリップ限定コレクション登場。",
@@ -286,7 +275,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "2d41d3ac-a2dd-4e80-803c-ca4bf7c30b77",
+    "id": "9022da2b-5093-4d0a-aa02-63b6c6b9fa50",
     "brand": "資生堂",
     "title": "資生堂：【限定】「資生堂パーラー 銀座本店サロン・ド・カフェ」、寒さ深まる2月に旬を迎える苺の限定パフェなどを展開 -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE41RFRnc3pxSC1MQ3ZEWFEtYWtKWWtvaHY0LTR6SVBaQlI2eFZ3QWU2TzlvcS",
@@ -297,7 +286,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "33b65fcb-c694-4c8a-a083-b93de976fb60",
+    "id": "727bd7cf-9491-4eb2-bbe8-02377c906372",
     "brand": "資生堂",
     "title": "資生堂：【限定】「資生堂パーラー 銀座本店レストラン」、寒さ深まる2月の限定コースを展開 -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5oV2xmYTI0ZmI3Nm80dy1lR2gzd1ZvV1VheFBJUW9YT0NZOG9yaGJGc3g4d0",
@@ -308,18 +297,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "103315e3-5145-4c50-bb52-04852258c57d",
-    "brand": "資生堂",
-    "title": "資生堂：【新作】【限定】恋するバレンタインは資生堂パーラーで。4種の限定パフェ＆“カカオホテル”がテーマの新作ショコラにときめく最高のひととき - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBGMGhGUXhLWUFfaUk3eFdYTGlmZ3BPX1NTY2tZMlAyaDJUd0NmRWM4LWNvSXpPQ1RGdFIySzdxV2VKZVlVUk1LRXZuR0hXc1RESVFxVFFDTld4N1FpdlNpNTRNX0lqU2FBWERXa3VDa0JaMkYxRmhNUVItRF92T1U?oc=5\" target=\"_blank\">恋するバレンタインは資生堂パーラーで。",
-    "publishedAt": "2026-01-20T08:00:00.000Z",
-    "category": "スキンケア",
-    "sourceType": "website",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGMGhGUXhLWUFfaUk3eFdYTGlmZ3BPX1NTY2tZMlAyaDJUd0NmRWM4LWNvSXpPQ1RGdFIySzdxV2VKZVlVUk1LRXZuR0hXc1RESVFxVFFDTld4N1FpdlNpNTRNX0lqU2FBWERXa3VDa0JaMkYxRmhNUVItRF92T1U?oc=5",
-    "thumbnailURL": null
-  },
-  {
-    "id": "7d4ee528-8c6e-4c07-a7b5-50d03762dbb4",
+    "id": "ce96c225-8374-4438-853b-272bd4d74207",
     "brand": "KOSÉ",
     "title": "KOSÉ：【限定】【TSUTAYA一部書店限定・先着順】コーセーが開発した美容プロテイン「ニューリズム」が美ST3月本誌・増刊の特典に！ - 美ST ONLINE",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nS1ppWW5HVjluQWFVTUdXOVJUVjBQSXo4RkhDeDdHd3JlNXlKbFZVX04yZ1",
@@ -330,7 +308,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "71c39fe9-e619-43b2-98cf-6a249035a9e8",
+    "id": "c9d0ef51-5da0-4950-8ec4-2fe96b012384",
     "brand": "資生堂",
     "title": "資生堂：【発売】【限定】資生堂パーラーの「チーズケーキ」から、春の訪れを告げる3種の詰め合わせが限定発売！ -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE96NDIxR0dQdDlGV1llYW5RNUlhalJCZTRVQ25yUldZSk1mREhqVWQ0Ym1xMk",
@@ -341,7 +319,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "110e525b-bb3e-4fd6-bdd8-69fb326a61fe",
+    "id": "d02f35ca-879c-4975-ab7f-ca8fe253d44b",
     "brand": "資生堂",
     "title": "資生堂：【限定】新しい季節に、心温まる贈り物を～資生堂パーラーから、春の限定スイーツが登場！ -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9qNjRWSmhVVTZ5T2xDQl9oZjk4d1JyTGVYaGlwY3JINVRKVU1zZXRFVU9abl",
@@ -352,7 +330,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "5bfc345e-7b44-43a7-97d5-d0a824480de3",
+    "id": "20102524-220b-43c0-9eb5-2c280b47594a",
     "brand": "資生堂",
     "title": "資生堂：【限定】110万円の限定キットも 「SHISEIDO」最高峰シリーズが西陣織とコラボ - fashionsnap.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDQyeWx5OHd6UllWNFFsal9RTFg0M0k4X3ZRNy00bDFwTUJLdEhoeDg1NW",
@@ -363,7 +341,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "a0a53f41-b90c-4035-9d4a-bb51d2029339",
+    "id": "7b8d0796-62e3-4ea1-8f51-172aa1f3d6be",
     "brand": "カネボウ",
     "title": "カネボウ：【新作】【2026年春】「カネボウ」「ルージュスター ヴァイブラント」の新色＆「SHISEIDO」新作フェイス＆アイカラーをご紹介！ - MAQUIA ONLINE",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FdU1YcGdQN1YzOFFqaVZDb1pEUHpaTWhkNkRSZVAyZTVMMTI0UVBUTjJGNV",
@@ -374,7 +352,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "4ed3817c-c383-43cd-ad51-3f57d3534e3d",
+    "id": "4d0916c0-4dc1-4807-81c0-e271daad1cf1",
     "brand": "資生堂",
     "title": "資生堂：【限定】バレンタインシーズンに贈るロマンティックな限定パフェを、「資生堂パーラー」各店で展開！ -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE54MEJ5SFQ0a21uNUxiVzhwdEgyaThndjQ0QWxGZ1ZYVURWM2t2T25QR3pMdl",
@@ -385,7 +363,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "fd9029e8-67c8-4d96-9918-7adbd23fb2e5",
+    "id": "cef411a1-e9fa-4e67-8463-3b7ea683417a",
     "brand": "カネボウ",
     "title": "カネボウ：KANEBOのクリームファンデーション！ベスコス受賞名品＆ おすすめを紹介 - 美的",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1yUkFuazR6cHNwRmlNaEhiODVNWHgzQVJkcVJYYnlVRmFONElDRG02cjh3SE",
@@ -396,7 +374,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "587127b7-5ff8-406f-b0d9-8aebac3fe9dd",
+    "id": "4cb1d3ba-201a-4aaf-b45a-16ae88d8934a",
     "brand": "資生堂",
     "title": "資生堂：テーマはチョコレートの甘い香りで満たされる“カカオホテル”、資生堂パーラーの「バレンタインコレクション2026」 -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53WXBQMjRmci0yaFlGNEhGTGlsYU16NjhFbHFtU2l4cmlTV3R3UTlUb2ZqN0",
@@ -407,7 +385,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "65245134-1a4b-4edc-a84f-ee6dfcbf6787",
+    "id": "1fc11f6b-fc2d-4afe-a237-eede8ee4a309",
     "brand": "資生堂",
     "title": "資生堂：【限定】2026年の幕開けに五感で味わう至福！資生堂パーラー ザ・ハラジュク、新春限定ランチコースを展開 -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1tM3oxTTkxclVOZEs1dGY3cXVuc2QwQmF0M1FnMm81eXdsMkRRNmRMTlBWUE",
@@ -418,7 +396,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "029f2d06-2960-4fde-87a6-0b0300622d00",
+    "id": "4b1b6510-c669-46ee-a34d-3c105e88367e",
     "brand": "KOSÉ",
     "title": "KOSÉ：【新作】コーセーコスメポート、主力2ブランドの新商品で高評価を獲得 - 週刊粧業オンライン",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LWHIyRURuZlBBa0o3ejBZNWZnMWd1dlhhdllvNEY3Vm0yUmxGeUlja0d1OG",
@@ -429,7 +407,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "ab7419aa-1390-44c1-af89-24d71d4c309f",
+    "id": "0cef214f-610d-4aca-affd-c18efad20770",
     "brand": "資生堂",
     "title": "資生堂：【発売】【限定】資生堂、マキアージュの下地からマツキヨココカラ限定色「バターイエロー」を発売 - 国際商業オンライン",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyaU04SlNDc0JlTmRvZUx6Ukp4T0Z3NExFS2tMSUNTT2ZGMFNGUVZfWUdzYz",
@@ -440,7 +418,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "e5da1ca1-da48-4924-8b67-87e0a30e5b83",
+    "id": "6f113ab0-8dbc-4090-b6d4-18b22ce72b8d",
     "brand": "資生堂",
     "title": "資生堂：【発売】【限定】マキアージュの最強※1くずれ防止下地から、自然なトーンアップを叶える限定色「バターイエロー」が登場 資生堂とマツキヨココカラ＆カンパニーとの共同企画 ～2026年2月21日(土)限定発売～ -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9UaklNbFJOZ3Z4TW9CUXhYWHBHNDZsUmd5cDdMWDJyak5mMGF1NUxjLTdRNV",
@@ -451,7 +429,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "bb2c2716-592c-4e0f-a686-6959c3c1aac0",
+    "id": "d397c0fa-acb3-4f2b-95d4-f093105c58a4",
     "brand": "カネボウ",
     "title": "カネボウ：生まれ変わりを繰り返す肌へ。絶えず注ぐうるおいで、生命感に満ちた”水滴るような肌”へ導く美容化粧水「カネボウ ジェネレイティング エッセンシャルズ」 | 株式会社カネボウ化粧品のプレスリリース -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaGI2RDBmdmZEanMzX3BhaldWZFVyOVpKaF9YcjZyYlhLS3hRRE0yMlhzN3phazZyQ0FIS2l2QmZpdnNRTUZ4dW1jaUZWMzQyb1cxeE5GRnJkbDMtTDZqR0huQlpVSjd0ZkE?oc=5\" target=\"_blank\">生まれ変わりを繰り返す肌へ。",
@@ -462,7 +440,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "df9f2b11-6fe0-431a-95a7-35266a55c936",
+    "id": "a064a614-f80f-4bab-ac41-e0ea21bb82f9",
     "brand": "資生堂",
     "title": "資生堂：【限定】新春を彩る真っ赤な苺のパフェ2種など、「資生堂パーラー」 レストラン各支店にて、1月限定メニューを展開 -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZndPTTZYVFdWMzZ4eFV2TlRhZlJITjFjbUxVdEZUUnQtNDdNcjFlYjNXVk",
@@ -473,7 +451,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "deee0891-cbfa-4526-ba32-a7c35dd1ea8f",
+    "id": "6f683a71-3c72-4577-8193-30bd142adf96",
     "brand": "カネボウ",
     "title": "カネボウ：【限定】新年を祝う干支の“馬”デザインで登場！ KANEBOの抱水美容液洗顔と泡立てネットの新春限定セット - MAQUIA ONLINE",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE50YnlERVNTU1loMlQzUk04VTBoTFhsYWFYN042ekhBc0ctZk5yVHBjLUduZz",
@@ -484,7 +462,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "1d5e52a0-bb2d-4011-95fc-9b609970fdd7",
+    "id": "2bbfb399-5b4e-4bc1-9025-537a9e33708b",
     "brand": "KOSÉ",
     "title": "KOSÉ：【発売】コーセーコスメポート「サンカット」が“無重力感”キーワードの日焼け止めを発売 - WWDJAPAN",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJZVlWalVtZE1LY29sR2xLVUNwdmlrY09XRjN4eW1rOUlvakhIUVA4TEdNcm",
@@ -495,7 +473,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "a1644136-dafc-4d10-8dbf-c9ffc2898fbf",
+    "id": "a9198666-52fc-405b-8ec5-66d245b77479",
     "brand": "資生堂",
     "title": "資生堂：【限定】「資生堂パーラー 銀座本店サロン・ド・カフェ」、2026年の幕開けを祝う、1月限定メニューを展開 -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9SckVBTVFWZExrNWk4dlBmbUdxcnZPeEJEd2pmQWt0QWRGRHRCUHV1aXJEMD",
@@ -506,7 +484,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "20967ce7-7702-4c05-ab62-d27093b0b8ad",
+    "id": "7e2f8d35-6850-48a7-8efe-e0ff77df70c7",
     "brand": "資生堂",
     "title": "資生堂パーラー 銀座本店の苺尽くしパフェ、大粒の「美濃娘」や「さぬきひめ」を贅沢に使用 - ファッションプレス",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE55d1ZpdVZXYjVXd3h1Smx2V3NCU2h6eG9mcERSQzByOWIwcmprb0RIOVNRVn",
@@ -517,7 +495,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "5104f183-1de0-47d1-b9ef-0a5f400a0825",
+    "id": "f3302886-4c06-48e5-8db0-67e5a027cc38",
     "brand": "KOSÉ",
     "title": "KOSÉ：コーセー「メイク キープ」から無香料のミストが登場 仕上がりが長時間続く化粧下地も - fashionsnap.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA0RWJDMUcwVVJ5VldEUlItYkF1QjN4UDZxNUY3bWdkRVc4OXJScWVIcjFsZ2",
@@ -528,7 +506,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "96156df6-1766-4d71-aa93-ac72921dc91e",
+    "id": "91536202-8e03-4d05-9d44-2859fe6a99d5",
     "brand": "カネボウ",
     "title": "カネボウ：【発売】【新作】【VOCE2月号 付録違いで4誌発売！】通常版・Special Edition共通付録にKANEBOの新作化粧水が登場！増刊ではROIROMのSpecial Cardをお届け - VOCE",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5qWGxEOFhVTWhOdjE2RU1Zd3M2R2c1cXF4WGhjSDJmdlZ0WE9jZ3VKai13Sl",
@@ -539,7 +517,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "67308b9b-2321-4273-82eb-0c49d752db9e",
+    "id": "bb70e46b-2303-4311-8c81-faeb12b297ea",
     "brand": "カネボウ",
     "title": "カネボウ：【発売】【限定】【新春コスメ】2026年の干支「馬」をデザイン カネボウが洗顔料＆泡立てネットの限定セットを発売 - fashionsnap.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1vcFdTdFljdTlXQllORVloVFhSZV9iamlqR2dUdFlyMTJWblpQdm43UDdrVE",
@@ -550,7 +528,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "d0c036d4-bdaf-4e3e-9e02-45d01d68cd27",
+    "id": "f4200e3f-9355-4bb4-abd0-aff38deddc33",
     "brand": "カネボウ",
     "title": "カネボウ：【発売】【新春コスメ】カネボウが洗顔料＆泡立てネット発売 2026年干支「馬」をデザイン（FASHIONSNAP） - Yahoo!ニュース",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5oU3hFZm5IbUxSYnFUVUVwNmxQS0NfNzlaRVlCMXFjNnRsM01NQ0p1bHRYVk",
@@ -561,7 +539,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "f1f0efb5-eb4e-453b-87eb-f53f23a9ce6c",
+    "id": "c5ea2e28-4574-4485-a8dd-910e43c0becd",
     "brand": "カネボウ",
     "title": "カネボウ：【限定】カネボウ化粧品「ミラノコレクション」が、京都最古の神社の一つ「下鴨神社」、鏡絵馬で有名な「河合神社」と“女神”コラボレーション！60名様限定で内なる美麗に目覚める『美麗体験』を開催 -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE4ySjBSU2c1bThOSVh3MmtIOW9RTklOMWxzOFdkdjk2dXV6OHdTMWdvNkQzLW",
@@ -572,29 +550,18 @@
     "thumbnailURL": null
   },
   {
-    "id": "f20b8724-ce95-46f5-bf05-d9e4f4461385",
-    "brand": "カネボウ",
-    "title": "カネボウ：【KANEBOの春コスメ2026】シアーなまろみカラーの春コレクション！スウォッチ付き - VOCE",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqRzRZWFBGdmNWc3VxRGtlcFFEV05TeURrb2hZd3FBNjVfOGptUXNiXzAxZm",
-    "publishedAt": "2025-12-07T08:00:00.000Z",
-    "category": "スキンケア",
-    "sourceType": "website",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqRzRZWFBGdmNWc3VxRGtlcFFEV05TeURrb2hZd3FBNjVfOGptUXNiXzAxZmF2eFA0QUhuRGhNVDVDcXNBN1E?oc=5",
-    "thumbnailURL": null
-  },
-  {
-    "id": "1d182909-59dc-4c88-8e31-55b167504ecb",
+    "id": "b112be7b-879e-4212-a3b4-0c85b9a9a59f",
     "brand": "カネボウ",
     "title": "カネボウ：【発売】【限定】「カネボウ」が新年を祝う洗顔料＆泡立てネットの限定品を発売 2026年の干支をデザイン - WWDJAPAN",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PVWJaTF9uNVlod1BYU29oUVBGWkVZSHE2TW5VWU5DTVE2cVVjZEtWdllqdE",
-    "publishedAt": "2025-12-07T08:00:00.000Z",
+    "publishedAt": "2025-12-08T05:35:06.000Z",
     "category": "スキンケア",
     "sourceType": "website",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PVWJaTF9uNVlod1BYU29oUVBGWkVZSHE2TW5VWU5DTVE2cVVjZEtWdllqdEtFdVBvd2xhN3FQalRiN0twcWx5alNpNm1oRVVWYW9Z?oc=5",
     "thumbnailURL": null
   },
   {
-    "id": "ab1e3fee-a23d-4892-9a66-cbfce9524869",
+    "id": "63b95d4e-89bf-44a5-b20c-290ac894001d",
     "brand": "カネボウ",
     "title": "カネボウ：【発売】【限定】2026年の干支「馬」を、飛躍の一年を願うシンボルとして表現。2026年新春限定デザインの抱水美容液洗顔を発売 -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBySklsWS1Ka0t3V1J3Y2tLU211UDkzTGRHQS0tX043bDNqRlV0c1pxZWNFSGlzdDAwdEljRWF3Rmo5Y252ZnVyWTZudncxR0NWM2FKOWhSdk05bVVSWGd0LUEzMHU0R1BLZEE?oc=5\" target=\"_blank\">2026年の干支「馬」を、飛躍の一年を願うシンボルとして表現。",
@@ -605,7 +572,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "9669ff72-181e-4dbd-812c-1919e767a65b",
+    "id": "3a45d50d-d043-41d0-a498-9f0298a4cf27",
     "brand": "資生堂",
     "title": "資生堂：【新作】【春コスメ2026】SHISEIDOの新作フェイス&アイカラー「カラー＋グロウ エンハンサー」全9色をスウォッチ！ - MAQUIA ONLINE",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5keHdtTHR5Rm5kOGhBMzdpT1hsX05Sb21iMzZGV3A0c0NhODM2dW1FTVVIYX",
@@ -616,7 +583,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "443ab1e4-31a1-4163-a95b-db32c764ef92",
+    "id": "42706c5e-83f3-4e70-ae2b-83a1ac4a84ed",
     "brand": "花王",
     "title": "花王：【発売】花王、「キュレル」の新製品2品発売に伴い発表会を開催 - 国際商業オンライン",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yWURBaHRLVkpKTEUwc2NJLWJ0YmJXamIwcTYzWlVwR0l5eTZJZVZvQnRlTm",
@@ -627,7 +594,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "d4e5e2b4-747d-4d3d-ada0-db1dee9eeee9",
+    "id": "97bdf0ed-775c-46b9-9d37-e2f61dfb61fb",
     "brand": "資生堂",
     "title": "資生堂：【新作】資生堂（SHISEIDO）新作コスメ【2026春夏】 - ELLE",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5pZFA5bzgtcHRNSHdMMnNsdW5pUTYyekdlNnZvYTJZQXlMU1dlcFVZWi1hRG",
@@ -638,7 +605,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "bb7c2aa5-0b54-483f-b2b9-83c9c361056f",
+    "id": "013274f9-db04-4ff1-9525-bd61d6b509d5",
     "brand": "KOSÉ",
     "title": "KOSÉ：【限定】リブマックスリゾートと化粧品メーカー「コーセー」が期間限定コラボイベント開催！ - フーズチャネル",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0d3doU0JGMmZVbGxWcWpISkktVGVrZ25NbTVpZ3NvekRaemtHanpiZGZlNG",
@@ -649,7 +616,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "9ad3e94c-b515-4941-a359-53771d678be2",
+    "id": "b66e34c1-51c7-49bd-89cf-9f0209f3b692",
     "brand": "KOSÉ",
     "title": "KOSÉ：【限定】リブマックスリゾートと化粧品メーカー「コーセー」が期間限定コラボイベント開催！ -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jSXpSaW5hTEpHcVAxMW1PZVozSTgzcHRtY1kxTzlnQkE3R241ZWlfUFNUSF",
@@ -660,7 +627,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "b5abe576-520e-4d43-98e5-7cb4c66e0dff",
+    "id": "8549173e-5aa8-45a8-87fe-4697f5b054db",
     "brand": "カネボウ",
     "title": "カネボウ：【新作】KANEBOのクリーム【5選】注目の新作＆おすすめを紹介！ - 美的",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0ZjB3blhXaXJncWlQM2FGZjVGYzJMVEFDZUZOdVFYb1d4UWVMczVZaVhsUU",
@@ -671,7 +638,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "f4317b7e-a9c2-4595-8b0c-d2c713afa752",
+    "id": "6a62cf54-a855-4996-a1d5-dc375f692329",
     "brand": "カネボウ",
     "title": "カネボウ：【新作】カネボウ（KANEBO）新作コスメ【2026春夏】 - ELLE",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBsTmJFTXZzeEJYUXd2REFPejVwVWlpQnN6dndPVzJiY3dycnJRcmZiVXpRQ2",
@@ -682,7 +649,7 @@
     "thumbnailURL": null
   },
   {
-    "id": "e1fa66ce-98f2-411d-bdc9-8f04709e4352",
+    "id": "41117ce9-ea87-44d6-b2dc-dcc24282161d",
     "brand": "資生堂",
     "title": "資生堂：【限定】スキンケアを説くリヴァイ兵長が新宿駅・梅田駅に出現！交通限定オリジナルショート漫画で男性肌の“壁※”の攻略法を学べ！ ～『進撃の巨人』コラボタンブラーが当たるSNSキャンペーンも追加実施決定～ -  TIMES",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1IMk4yU0FycDJvaTJYbG5ITGY1dnduVDB2UWNvcmlUSGdHOGJIRFB4ejVmc2",
